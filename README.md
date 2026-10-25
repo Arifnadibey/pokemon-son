@@ -1,0 +1,1 @@
+**bu depoda visual studio koduyla yaptığım discord botunu belirttim burada class yapısını kullanarak hasar verebilen,resimli,infolu ve canı olan ve yemek yiyip canını doldurmakta ve hasar vermekte cooldownu olan bir bot tasarladım ve bu projeyi yapmama yardım eden kodland hocama da teşekkür ederim**
